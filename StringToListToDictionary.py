@@ -1,4 +1,3 @@
-# This is my python code
 def mydict(text):
     print([text])
     my_list = text.split()
