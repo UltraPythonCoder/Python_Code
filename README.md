@@ -35,4 +35,12 @@ Output: Choose A Number : 12
               12
               sum ----> 28
               
+Program Name: FibonacciSeries.py
+Input: Fib(5)
+Output: 1
+             1
+             2
+             3
+             5
+             
 Program Name: 
